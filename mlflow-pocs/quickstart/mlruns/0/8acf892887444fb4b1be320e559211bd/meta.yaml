@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/jaimegomez/Documents/tech/framework/ml-ops/mlflow-pocs/quickstart/mlruns/0/8acf892887444fb4b1be320e559211bd/artifacts
+end_time: 1770317655353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8acf892887444fb4b1be320e559211bd
+run_name: upset-lamb-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770317655347
+status: 3
+tags: []
+user_id: jaimegomez
