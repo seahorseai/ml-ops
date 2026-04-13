@@ -4,7 +4,7 @@ source env/bin/activate
 
 pip install mlflow
 
-python test_mlflow.py
+py test_mlflow.py
 
 
 mlflow ui
